@@ -1,5 +1,3 @@
-
-
 /**
  * The Human class implements a wrapper for the base Creature class with the following additions
  * Implements a maximum/minimum strength for the creature type [20/5]
